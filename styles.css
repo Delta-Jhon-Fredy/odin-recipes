@@ -1,0 +1,32 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1{
+    color: #c0392b;
+    background-color: #ec706325;
+    text-align: center;
+}
+
+h2{
+    color: #e74c3c ;
+}
+
+h3{
+    color: #34495e;
+}
+
+a{
+    text-decoration: none;
+}
+
+.home{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+
