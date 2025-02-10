@@ -4,29 +4,52 @@
 }
 
 h1{
-    color: #c0392b;
-    background-color: #ec706325;
+    color: #A27B5C;
+    background-color: #DCD7C9;
+    border-radius: 20px;
     text-align: center;
 }
 
 h2{
-    color: #e74c3c ;
+    color: #A27B5C ;
 }
 
 h3{
-    color: #34495e;
+    color: #3F4F44;
 }
 
-a{
+.img{
+    margin: 10px;
+}
+
+a, .btn{
     text-decoration: none;
+    font-size: 32px;
+    border-radius: 10px;
+    border: 0;
+    color: black;
+    margin: 10px;
 }
 
-.home{
+.home, .home-a{
     text-align: center;
+    color: #3F4F44;
+}
+
+.home-a:hover{
+    color: #A27B5C;  
+}
+
+.btn:hover{
+    background-color: #A27B5C;
+    color: #3F4F44;
 }
 
 ul{
     list-style: none;
 }
 
+.ul-li{
+    margin: 5px;
+}
 
