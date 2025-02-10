@@ -1,27 +1,33 @@
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    background-color: #DDF2FD;
 }
 
 h1{
-    color: #A27B5C;
-    background-color: #DCD7C9;
+    color: #164863;
+    background-color: #9BBEC8;
     border-radius: 20px;
     text-align: center;
 }
 
 h2{
-    color: #A27B5C ;
+    color: #164863 ;
 }
 
-h3{
-    color: #3F4F44;
+.descr{
+    color: #164863;
+    font-size: 21px;
+    text-align: center;
+}
+
+.odin{
+    color: #164863;
 }
 
 .img{
     margin: 10px;
 }
-
+/*
 a, .btn{
     text-decoration: none;
     font-size: 32px;
@@ -52,4 +58,5 @@ ul{
 .ul-li{
     margin: 5px;
 }
+*/
 
